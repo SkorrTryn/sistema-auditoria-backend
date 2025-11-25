@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-multipart
+python-dotenv
+sqlalchemy
+psycopg2-binary
+pydantic
+pydantic-settings
+openpyxl
+pandas
+requests
+python-jose[cryptography]
+passlib[bcrypt]
+aiofiles
+msal==1.31.1
+aiohttp==3.11.10

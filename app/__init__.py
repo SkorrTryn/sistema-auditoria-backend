@@ -1,0 +1,3 @@
+"""
+Sistema de Auditoría - Backend
+"""
